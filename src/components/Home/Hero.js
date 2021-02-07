@@ -12,7 +12,7 @@ export default function Hero() {
             <NavBar>
                 <Link to="/">
                     <Logo>
-                        <img src={logo} />
+                        <img src={logo} alt="Dreammarker" />
                         <h1>Dreammarker</h1>
                     </Logo>
                 </Link>
